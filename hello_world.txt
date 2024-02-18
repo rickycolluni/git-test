@@ -1,0 +1,3 @@
+Hi, my name is Ricky.
+This is part of my lesson of learning how to use git and Github.
+So far, i have only used "git clone", "git add", "git commit".
